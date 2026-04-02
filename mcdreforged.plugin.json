@@ -1,0 +1,10 @@
+{
+    "id": "kill_creeper",
+    "version": "1.0.0",
+    "name": "Creeper Killer",
+    "description": "Kill creepers near players every second",
+    "author": "User",
+    "dependencies": {
+        "mcdreforged": ">=2.15.0"
+    }
+}
